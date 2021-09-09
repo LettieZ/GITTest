@@ -2,7 +2,7 @@
 
 int main( )
 {
-	printf("Hello Github!\n" );
+	printf("Hello Github!" );
 	printf("Call me by your name!" );
 
 	return 0;
