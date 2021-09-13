@@ -1,2 +1,2 @@
-# GITTest
-A repository for  git test!
+A repository for git test!
+
